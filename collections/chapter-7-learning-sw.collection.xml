@@ -1,49 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Stephen E. Wisecarver">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11817</md:content-id>
-  <md:title>Chapter 7: Learning SW</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>bbc4b4e8-4dae-42e6-8017-0f0626d58082</md:uuid>
-<md:slug>chapter-7-learning-sw</md:slug>
-</metadata>
-
+    <md:content-id>col11817</md:content-id>
+    <md:title>Chapter 7: Learning SW</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>bbc4b4e8-4dae-42e6-8017-0f0626d58082</md:uuid>
+    <md:slug>chapter-7-learning-sw</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m55788"/>
-        
-      
-    
-    
-      <col:module document="m55789"/>
-        
-      
-    
-    
-      <col:module document="m55790"/>
-        
-      
-    
-    
-      <col:module document="m55793"/>
-        
-      
-    
-    
-      <col:module document="m55794"/>
-        
-      
-    
+    <col:module document="m55788"/>
+    <col:module document="m55789"/>
+    <col:module document="m55790"/>
+    <col:module document="m55793"/>
+    <col:module document="m55794"/>
   </col:content>
 </col:collection>
